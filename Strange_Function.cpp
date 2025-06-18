@@ -28,6 +28,7 @@ int main()
 
     //     }
     // }
+    ios::sync_wiht_stdio(false);
     int t;
     cin >> t;
     // 预处理
