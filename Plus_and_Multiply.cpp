@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// YOLO
 void solve()
 {
     long long n, a, b;
